@@ -4,5 +4,9 @@ public class Teacher {
 
     private Double money;
 
+    private boolean is;
+
+
+
 
 }
